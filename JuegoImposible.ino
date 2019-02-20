@@ -1,4 +1,5 @@
-/*Juego arcade analógico donde el objetivo es meter la bola en el agujero correcto controlando la barra con dos joysticks.
+/*Juego arcade analógico donde el objetivo es meter la bola en el agujero correcto controlando la barra con dos joysticks. 
+  Programado en Arduino Leonardo
   Autor: Javier Vargas. El Hormiguero.
   https://creativecommons.org/licenses/by/4.0/
 */
